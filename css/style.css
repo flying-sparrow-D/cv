@@ -171,7 +171,7 @@ p{
     text-decoration: none;
   }
   @media screen and (max-width: 580px) {
-    .montain{
+   .montain{
         
       
         
@@ -180,10 +180,10 @@ p{
     }
     .leftcl{
         height: 5%;
-        width: 20%;
+        width: 15%;
         position: absolute;
-    right: 20%;
-    top:8%;
+    left: 60%;
+    top:5%;
     
     }
     .rightcl{
@@ -192,5 +192,20 @@ p{
         position: absolute;
         left: 20%;
         top:10%;
+    }
+    body{
+        font-size: small;
+    }
+    h1{
+
+        font-size: 3.5rem;
+    }
+    h2{
+        font-size: 1.5rem;
+    }
+    .pr{
+
+        height: 30%;
+        width: 30%;
     }
   }
